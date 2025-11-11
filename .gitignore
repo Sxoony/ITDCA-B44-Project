@@ -1,0 +1,40 @@
+# OS
+.DS_Store
+Thumbs.db
+
+
+# Logs
+logs
+*.log
+
+
+# Node
+node_modules/
+npm-debug.log
+
+
+# .NET / C#
+bin/
+obj/
+*.user
+*.vs/
+
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+
+# Environment files
+.env
+
+
+# Build / Dist
+dist/
+build/
+out/
+
+
+# Misc
+*.exe
+*.dll
