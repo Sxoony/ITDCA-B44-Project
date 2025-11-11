@@ -22,8 +22,8 @@ This project is a multi-module data structures implementation for an academic as
   - System.ComponentModel.DataAnnotations (validation attributes)
 
 ## How to Run (Local)
-1. **Clone:** `git clone https://github.com/Sxoony/ITDCA-Data-Structures-Project.git`
-2. **Navigate:** `cd ITDCA-Data-Structures-Project`
+1. **Clone:** `git clone https://github.com/Sxoony/ITDCA-B44-Project.git`
+2. **Navigate:** `cd ITDCA-B44-Project`
 3. **Setup:**
    - Open the solution in Visual Studio 2022 or later
    - Ensure the `q4_data (1).json` file is in the project directory (for Question 4 functionality)
